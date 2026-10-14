@@ -1,0 +1,651 @@
+Voorschriftnummer
+1.2.17.H Gasreiniging
+Inhoud
+De ontzwaveling van kooksovengas moet zodanig plaatsvinden, dat het volumegewogen totaal S-gehalte, uitgedrukt als maandgemiddelde waarde, de (totale) waarde van 1,0 g S/Nm3 niet overschrijdt. De jaargemiddelde waarde mag de totale waarde van 0,8 g S/Nm3 niet overschrijden. De berekeningswijze is weergegeven in bijlage 5. De volgende situaties worden bij de berekeningen niet meegenomen: - bij Kooksfabriek 1: maximaal 5 x 24 uur per kalenderjaar t.b.v. onderhoudswerkzaamheden; - bij Kooksfabriek 1: maximaal 5 x 24 uur per kalenderjaar t.b.v. start-, stilleg- en noodstopprocedures; - bij Kooksfabriek 2: maximaal 5 x 24 uur per kalenderjaar t.b.v. start-, stilleg- en noodstopprocedures.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+03-01-2015
+
+Voorschriftnummer
+F Voorschriften milieu
+Inhoud
+Voorschrift 1 Binnen twee weken na ingebruikname van de na-geschakelde installatievoorziening met actief kool dient een opleveringsmeting te zijn uitgevoerd. De metingen dienen door een geaccrediteerde meetinstantie uitgevoerd te worden. Voorschrift 2 Voordat de metingen plaatsvinden moet in overeenstemming met het bevoegd gezag onder andere zijn vastgesteld welke (representatieve) omstandigheden de metingen plaatsvinden, welke paramaters bijgehouden worden om deze omstandigheden te garanderen alsmede welke emissierelevante parameters worden bijgehouden.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+03-11-2023
+
+Voorschriftnummer
+1.2.13.H Deuremissies Kooksfabriek 2
+Inhoud
+a. Per batterijgroep mag de totale emissie op enige plaats tussen de ankerstijlen, aan kooks- en machinezijde samen, het emissiekental 10 (als maandgemiddelde per kalendermaand) niet overschrijden. b Het emissiekental dient te worden berekend op de wijze zoals omschreven in de bij dit voorschrift behorende bijlage 1. c. Dagelijks (7x per week) moeten de berekende emissiekentallen en de onderliggende gegevens per batterijgroep worden geregistreerd. d. Door vergunninghoudster moet binnen 6 maanden nadat dit voorschrift in werking is getreden, onderzoek zijn verricht naar de mogelijkheden tot verdere reductie van de onder a vastgelegde grenswaarde. e. Binnen 8 weken na indiening van het onderzoek als bedoeld onder d nemen gedeputeerde staten een besluit inzake de goedkeuring daarvan. f. Gedeputeerde staten kunnen aan het onderzoek nadere eisen stellen, waaraan vergunninghoudster vervolgens moet voldoen. g. Door vergunninghoudster moet ieder kwartaal een overzicht van alle uitgevoerde en geplande onderhoudswerkzaamheden en van alle uitgevoerde acties en maatregelen om de deuremissies te beperken, worden opgesteld en aan gedeputeerde staten worden toegezonden. In het overzicht dient aangegeven te worden wat de verwachte resultaten van het voorgaande zijn op de deuremissies.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+06-07-2013
+
+Voorschriftnummer
+III
+Inhoud
+Voorschrift 2.26 van de omgevingsvergunning d.d. 16 januar1 2007, met kenmerk: 2007-00001, zoals gewijzigd bij besluit van 2 augustus 2016, kenmerk: 60688, in die zin te wijzigen dat de emissie van stofemissie bij de kooksbunkers (EL.215) de volgende grenswaarden niet overschrijden: Emissiecode (bronaanduiding) Installatie (emissiepunt) Concentratie1 [mg/Nm3 Kooksfabriek 2 EL.215 Afzuiging Kooksbunker 21 5 Afzuiging Kooksbunker 22 5 Afzuiging Kooksbunker 23 5 Afzuiging Kooksbunker 24 5 1 bepaald als gemiddelde van de bemonsteringsperiode (discontinue meting, steekproefmonsters voor minstens een halfuur) en omgerekend naar standaardomstandigheden, droog afgas met een temperatuur van 273,15 K bij een luchtdruk van 1013 hectopascal.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+06-10-2022
+
+Voorschriftnummer
+Voorschrift 1
+Inhoud
+1. De eindtemperatuur van de gare kooks in de betreffende batterijen gedurende de renovatie van de kzo dient 10°C te worden verhoogd ten opzichte van de standaardtemperatuur om de stofemissie zoveel als mogelijk te beperken.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+07-03-2013
+
+Voorschriftnummer
+Voorschrift 2
+Inhoud
+1. Indien de kzo voor renovatie langdurig uit bedrijf wordt genomen dient door de vergunninghoud(st)er een werkplan te worden opgesteld. In dit werkplan dienen de volgende zaken worden opgenomen: • Planning van de uit te voeren werkzaamheden; • De gemaakte afweging ten aanzien van gehele of gedeeltelijke vervanging van betreffende installatie(onderdelen). • De genomen maatregelen om de milieubelasting zo beperkt mogelijk te houden. 2. Uiterlijk drie maanden voor de voorgenomen aanvangsdatum van de renovatie van de kzo, moet het in het eerste lid genoemde plan, schriftelijk aan gedeputeerde staten ter goedkeuring zijn voorgelegd. 3. Binnen 4 weken na indiening van het planen nemen gedeputeerde staten een besluit inzake de goedkeuring daarvan. 4. Gedeputeerde staten kunnen naar aanleiding van het werkplan nadere eisen stellen aan de uit te voeren renovatie. Deze nadere eisen kunnen zich alleen richten op de milieuhygiënische randvoorwaarden van het uit bedrijf zijn van de kzo. 5. De renovatie moet overeenkomstig het goedgekeurde werkplan worden uitgevoerd.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+07-03-2013
+
+Voorschriftnummer
+Voorschrift 1.2.17.H Gasreiniging
+Inhoud
+a. De ontzwaveling van het kooksovengas bij Kooksfabriek 1 moet zodanig plaatsvinden, dat de concentratie H2S de daggemiddelde waarde van 400 mg/Nm3 niet overschrijdt; b. De ontzwaveling van het kooksovengas bij Kooksfabriek 2 moet zodanig plaatsvinden, dat in de maanden januari t/m mei en de maanden oktober t/m december de concentratie H2S de daggemiddelde waarde van 800 mg/Nm3 niet overschrijdt; c. De ontzwaveling van het kooksovengas bij Kooksfabriek 2 moet zodanig plaatsvinden, dat in de maanden juni t/m september de concentratie H2S de daggemiddelde waarde van 1000 mg/Nm3 niet overschrijdt; d. De concentratie H2S dient bepaald te worden zoals is weergegeven in de van dit besluit deel uitmakende bijlage I; e. De volgende situaties worden bij de berekeningen niet meegenomen: - bij Kooksfabriek 1: maximaal 14 x 24 uur per twee opvolgende jaren t.b.v. onderhoudswerkzaamheden; - bij Kooksfabriek 1: maximaal 10 x 24 uur per jaar t.b.v. start-, stilleg- en noodstopprocedures; - bij Kooksfabriek 2: maximaal 5 x 24 uur per jaar t.b.v. starten en stilleggen.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+07-04-2017
+
+Voorschriftnummer
+Voorschrift 0.4.13.H, onder c
+Inhoud
+c. Per batterijgroep van Kooksfabriek 1 mag de totale emissie op enige plaats tussen de ankerstijlen, aan kooks- en machinezijde samen, het emissiekental 5 (als maandgemiddelde per kalendermaand) en het emissiekental 15 (als daggemiddelde waarde) niet overschrijden. Het emissiekental dient te worden berekend op de wijze zoals omschreven in de bij dit voorschrift behorende bijlage A. Dagelijks (7x per week) moeten de berekende emissiekentallen en de onderliggende gegevens per batterijgroep worden geregistreerd.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+07-07-2017
+
+Voorschriftnummer
+I.
+Inhoud
+Voorschrift 1.2.20.H (tabel 1) van de omgevingsvergunning, d.d. 16 januari 2007, kenmerk: 2007-00001,37 zodanig te wijzigen dat de emissie-eisen voor de zwavelzuurfabriek van Kooksfabriek 1 als volgt komen te luiden: De emissies van de hierna genoemde stoffen mogen de volgende grenswaarden niet overschrijden: Emissiepunt Component Emissiegrenswaarde (mg/Nm3) [daggemiddelde concentratie] EL.110 SO2 NOx 2 450 1 65 1 Geldig vanaf 1 januari 2024 2 betrokken op 5% zuurstof en NOx uitgedrukt als NO2
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+II.
+Inhoud
+Voorschrift 1.2.20.H (tabel 2) van de omgevingsvergunning, d.d. 16 januari 2007, kenmerk: 2007-00001,38 zodanig aan te wijzigen dat de emissie-eisen bij de zwavelzuurfabriek van Kooksfabriek 2 voor SO2 als volgt komen te luiden: De emissies van de hierna genoemde stoffen mogen de volgende grenswaarden niet overschrijden: Emissiepunt Component Emissiegrenswaarde (mg/Nm3) [daggemiddelde concentratie] EL.218 SO2 100
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+III.
+Inhoud
+Voorschrift 0.1.17H van de omgevingsvergunning, d.d. 16 januari 2007, kenmerk: 2007-00001,39 zodanig aan te passen dat het monitoringsprogramma voor EL.110 en EL.218 als volgt komt te luiden: Stofgroep Bron Frequentie 7 (NOx) EL.110 en EL.218 1 x per drie jaar en categorie-B ERP’s
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+Voorschrift 1.2.20.H.a: SO2-maatregelen zwavelzuurfabriek Kooksfabriek 1
+Inhoud
+a. Vergunninghouder moet zo spoedig mogelijk, maar uiterlijk op 1 januari 2024, maatregelen treffen om de emissie van SO2 bij emissiepunt EL.110 te reduceren naar een zodanig emissieniveau als genoemd onder besluitonderdeel I. b. Vergunninghouder dient ieder half jaar de voortgang van de realisatie aan gedeputeerde staten rapporteren. c. De eerste voortgangsrapportage, zoals genoemd onder b, dient 1 juli 2022 te zijn ingediend.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+Voorschrift 1.2.20.H.b: Onderzoeksverplichting verlagen SO2-emissie zwavelzuurfabriek Kooksfabriek 1
+Inhoud
+a. Door vergunninghouder moet vóór 1 januari 2024 onderzoek zijn verricht naar de mogelijkheden om de emissie van SO2 verder terug te brengen tot een waarde die aan de onderkant van de gestelde BAT AEL range (100 mg/Nm3) ligt; b. Het onderzoek dient onder andere inzicht te geven in de technische mogelijkheden, de kosten en te bereiken reducties (inclusief toepasbaarheid van nageschakelde gaswassing); c. Een rapport betreffende de resultaten van het onderzoek en de hieraan te verbinden conclusies moet vóór 1 maart 2024 schriftelijk bij gedeputeerde staten zijn ingediend. Gedeputeerde staten kunnen aan het rapport binnen twee maanden na indiening ervan nadere eisen stellen, waaraan vergunninghouder vervolgens moet voldoen.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+Voorschrift 1.2.20.H.c.: NOx-maatregelen zwavelzuurfabriek Kooksfabriek 2
+Inhoud
+a. Door vergunninghouder moet zo spoedig mogelijk, maar uiterlijk 1 januari 2023, onderzoek zijn verricht naar de mogelijkheden om de emissie van NOx te reduceren tot 200 mg/Nm3. b. Het onderzoek dient onder andere inzicht te geven in de technische mogelijkheden, de kosten van de maatregelen, de te bereiken reducties en de mogelijke implementatie van de maatregelen. c. Een rapport betreffende de resultaten van het onderzoek en de hieraan te verbinden conclusies moet vóór 1 maart 2023 schriftelijk bij gedeputeerde staten zijn ingediend. Gedeputeerde staten kunnen aan het rapport binnen twee maanden na indiening ervan nadere eisen stellen, waaraan vergunninghouder vervolgens moet voldoen.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+Voorschrift 1.2.20.H.d: Monitoring SO2 zwavelzuurfabrieken
+Inhoud
+De emissies van SO2 bij schoorsteen EL.110 (KF1) en EL.218 (KF2) dienen continue te worden gemeten, waarbij de emissiemetingen moeten worden uitgevoerd overeenkomstig genormaliseerde meetmethoden, zoals vermeld in de Bijlage ‘Metingen’.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+Voorschrift 1.2.20.H.e: Emissie SO3/H2SO4 zwavelzuurfabrieken
+Inhoud
+De emissies van de hierna genoemde stoffen mogen de volgende grenswaarden niet overschrijden: Emissiepunt Component Emissiegrenswaarde (mg/Nm3) [jaargemiddelde concentratie] EL.110 EL.218 H2SO4 1 H2SO4 1 15 15 1 uitgedrukt als SO3/H2SO4
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+Voorschrift 1.2.20.H.f: Monitoring H2SO4 zwavelzuurfabrieken
+Inhoud
+a. De emissies van H2SO4 bij schoorstenen EL.110 (Kooksfabriek 1) en EL.218 (Kooksfabriek 2) dienen wekelijks te worden bepaald conform de meetnorm EPA Method 8: determination of sulfuric acid and sulfur dioxide emissions from stationary sources. b. Om te beoordelen of aan de emissiegrenswaarden, zoals gesteld in voorschrift 1.2.20.H.e, wordt voldaan dient er een middeling plaats te vinden van de wekelijks verkregen meetwaarden.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+09-11-2021
+
+Voorschriftnummer
+1.2.10
+Inhoud
+Gemiddeld per week mag per batterijgroep niet meer dan 2% van alle vulgaten en niet meer dan 2% van alle klimpijpen een vanaf 2 meter afstand zichtbare lekkage vertonen (de beoordelingsmethode is in bijlage 3 beschreven).
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+09-12-2008
+
+Voorschriftnummer
+1.2.13
+Inhoud
+Per batterijgroep mag de totale emissie op enige plaats tussen de ankerstijlen, aan kooksen machinezijde samen, het emissiekental 10 (Kooksfabriek 1) en 20 (Kooksfabriek 2) niet overschrijden. Het emissiekental dient te worden berekend op de wijze zoals omschreven in bijlage 4. Werkdagelijks moeten de berekende emissiekentallen en de onderliggende gegevens per batterijgroep worden vastgelegd.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+09-12-2008
+
+Voorschriftnummer
+1.2.14
+Inhoud
+Door vergunninghoudster moet binnen 12 maanden nadat de kooksovendeuren zijn vervangen, onderzoek zijn verricht naar de mogelijkheden om het in voorschrift 1.2.13 vastgelegde emissiekental voor Kooksfabriek 2 terug te brengen tot 10. Een rapport betreffende de resultaten van het onderzoek en de hieraan te verbinden conclusies moet binnen 2 maanden na afronding van het onderzoek schriftelijk bij gedeputeerde staten zijn ingediend. Gedeputeerde staten kunnen aan het rapport binnen 6 weken na indiening ervan nadere eisen stellen, waaraan vergunninghoudster vervolgens moet voldoen.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+09-12-2008
+
+Voorschriftnummer
+1.2.17
+Inhoud
+De ontzwaveling van het kooksovengas moet zodanig plaatsvinden, dat het volumegewogen totaal S-gehalte uitgedrukt als een per kwartaal voortschrijdend jaargemiddelde, de (totale) waarde van 0,8 g S/m30 niet overschrijdt. De berekeningswijze is weergegeven in bijlage 5. De volgende situaties worden in deze berekeningen niet meegenomen: - bij Kooksfabriek 1: maximaal 14 dagen t.b.v. onderhoud, start-, stilleg- en noodstopprocedures; - bij Kooksfabriek 2: maximaal 14 dagen per jaar i.v.m. heet weer.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+09-12-2008
+
+Voorschriftnummer
+1.2.20
+Inhoud
+De emissies van de hierna genoemde stoffen mogen de volgende grenswaarden niet overschrijden:
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+09-12-2008
+
+Voorschriftnummer
+1.2.21
+Inhoud
+a Door vergunninghoudster moet binnen 6 maanden nadat de beschikking in werking is getreden onderzoek zijn verricht naar de mogelijkheden tot verdere reductie van de diffuse emissies van benzeen en benzo(a)pyreen (PAK) afkomstig van de batterijen; b In het onderzoek dient invulling te worden gegeven aan het Ner-stappenplan voor de minimalisatieverplichting voor MVP stoffen zoals opgenomen in voorschrift 0.9 bijlage 1; c Een rapport betreffende de resultaten van het onderzoek en de hieraan te verbinden conclusies moet binnen 8 weken na afronding van het onderzoek schriftelijk bij gedeputeerde staten zijn ingediend. Gedeputeerde staten kunnen aan het rapport binnen 8 weken na indiening ervan nadere eisen stellen, waaraan vergunninghoudster vervolgens moet voldoen. d Elke 5 jaar dient het onder a en b genoemde onderzoek te worden herhaald.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+09-12-2008
+
+Voorschriftnummer
+1.2.3
+Inhoud
+Door vergunninghoudster moet een plan worden opgesteld ten behoeve van de toepassing van interne stromen in de Kooksfabrieken. Hierin dienen ten minste de volgende gegevens te worden opgenomen: a Eural code’s b Interne codering (indien gehanteerd) c Gebruikelijke benaming van het afval d De te hanteren acceptatie criteria van de afvalstof e Wijze waarop acceptatiecontrole plaats vindt f Wijze van toepassing van de afvalstof.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+09-12-2008
+
+Voorschriftnummer
+1.2.24
+Inhoud
+Het afgezogen kooksovengas (COG) dient als brandstof, als reductiemiddel of voor de productie van chemicaliën te worden gebruikt.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-02-2016
+
+Voorschriftnummer
+1.2.1
+Inhoud
+Voor de navolgende installaties dient een inspectie- en onderhoudsplan als bedoeld in voorschrift 0.1.4 te worden opgesteld: a de gasreiniging van het kooksovengas; b ovenwanden; c de klimpijpen; d de afzuig- en ontstoffingsinstallaties van de vul- en drukmachines; e ovendeuren.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.11
+Inhoud
+Vergunninghoudster moet voor Kooksfabriek 1 en 2 de kwartaalemissiecijfers van de vulgaten en klimpijpen registreren. Van Kooksfabriek 2 dient ook het kwartaalemissiecijfer van de vulemissie te worden geregistreerd.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.12
+Inhoud
+Een goede, ongestoorde afvoer van ongereinigde kooksovengas via de klimpijp en klimpijpbocht dient te allen tijde te zijn gewaarborgd.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.15
+Inhoud
+Vergunninghoudster moet het tijdstip van het begin en het einde van het gaarproces registreren.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.16
+Inhoud
+Na uitvoeren van reparaties aan kookskamers is, gedurende 24 uur, de stofemissie-eis zoals opgenomen in voorschrift 1.2.20 niet van toepassing. Vergunninghoudster moet na reparaties aan een kookskamer de datum en het tijdstip van het wederom in bedrijf gaan van de betreffende kookskamer registreren.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.18
+Inhoud
+Het gecorrigeerde vochtgehalte dient tenminste 4 gewichtsprocent te bedragen (zie voor nadere toelichting bijlage 6). Indien direct bij de bron visueel waarneembare stofverspreiding van kooks optreedt ter plaatse van die overstorten waar geen afzuigings- en ontstoffingsinstallaties aanwezig zijn, of waar deze installaties door bevriezingsgevaar of storing buiten werking zijn moet het vochtgehalte van de kooks in de betreffende transportlijn worden bepaald. Deze bepaling dient te geschieden binnen 4 uur na betreffende constatering. Het vochtgehalte moet worden bepaald met behulp van het kooksbemonsteringssysteem KOMONE.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.19
+Inhoud
+Ter plaatse van overstort- en overslagpunten van kooks in het kookstransportsysteem, waar bepaling van een vochtgehalte niet mogelijk is, mag, in afwijking van voorschrift 0.2.31, buiten een afstand van 5 meter van de bron geen visueel waarneembare stofverspreiding optreden. Met ingang van 1 januari 2010 dienen deze overstort- en overslagpunten, in overeenstemming te zijn met voorschrift 0.4.3 onder e.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.2
+Inhoud
+a Het in voorschrift 1.2.1 bedoelde plan, met betrekking tot het onderdeel ovenwanden, moet binnen 6 maanden nadat de beschikking in werking is getreden schriftelijk aan gedeputeerde staten ter goedkeuring zijn voorgelegd; b Binnen 1 maand na indiening van het plan als bedoeld onder a nemen gedeputeerde staten een besluit inzake de goedkeuring daarvan; c De inrichting moet na afloop van de onder b genoemde termijn of zoveel eerder als gedeputeerde staten het plan hebben goedgekeurd, overeenkomstig het goedgekeurde plan in werking zijn; d Binnen de inrichting moet een actuele versie van het plan aanwezig zijn; e Wijzigingen op het goedgekeurde plan moeten vóór invoering aan gedeputeerde staten worden overgelegd. Zij worden geacht deel uit te maken van het goedgekeurde plan, tenzij gedeputeerde staten binnen 1 maand na ontvangst anders bepalen.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.22
+Inhoud
+Met ingang van 1 januari 2010 mag de noodverlading van kooks van Kooksfabriek1 alleen gebruikt worden ingeval van storing en calamiteiten. De ingebruikneming van de noodverlading dient vanaf 1 januari 2010, overeenkomstig voorschrift 0.1.8, als afwijkende bedrijfssituatie te worden gemeld.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.7
+Inhoud
+Tijdens het vullen van een oven van Kooksfabriek 2 moet aan onderstaande punten worden voldaan: a alle gassen dienen binnen het gesloten uitgevoerde vulsysteem te blijven en via de gasverzamelleiding naar het reinigingssysteem voor ruwkooksovengas te worden afgevoerd; b beperkte lekkage van het vulsysteem is toegestaan mits de emissie de 40% opaciteit niet te boven gaan en niet langer dan 20% van de werkelijke vultijd plaatsvindt. De beoordeling dient plaats te vinden als gemiddelde over 5 achtereenvolgende vulcycli (de beoordelingsmethode is beschreven in bijlage 2).
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.8
+Inhoud
+De afzuigcapaciteit via de stoomejecteur en afzuiginstallatie dient zodanig te zijn, dat na het vullen, tijdens het planeren en bij het heffen van de telescopen geen emissie optreedt uit het planeerluik (behoudens de ontkoppelingsfase).
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+MILIEU
+Inhoud
+De nieuwe voor- en nagaskoelers dienen zodanig te zijn ontworpen dat vluchtige gasemissies tot een minimum worden beperkt door het toepassen van de volgende technieken: 1. beperking van het aantal flenzen door, waar mogelijk, verbindingen te lassen; 2. gebruik van geschikte afdichtingen voor flenzen en kleppen; 3. gebruik van gasdichte pompen.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, niet onherroepelijk
+Datum status
+11-08-2020
+
+Voorschriftnummer
+1.2.20 H
+Inhoud
+De emissies van de hierna genoemde stoffen mogen de volgende grenswaarden niet overschrijden: Gewijzigde tabel 1: Kooksfabriek 1 Emissiecode (bronaanduiding) Stof Grenswaarde Uitworp Uitworp EL. 104: Blustorens Stof Stof CO 60 g/ton kooks 1) 50 g/ton kooks 1) 2) 600 g/ton kooks EL.1 07: Batterij- schoorstenen (11, 12, 13, 14) Schoorsteen 11 (Batterij 11 en 12) Schoorsteen 12 (Batterij 19) Schoorsteen 13 (Batterij 16) Schoorsteen 14 (Batterij 17 en 18) Stof NOx Stof NOx Stof NOx Stof NOx 30 mg/m30 3) 4) 1000 mg/m30 4) 30 mg/m30 3) 4) 900 mg/m30 4) 30 mg/m30 3) 4) 1100 mg/m30 4) 30 mg/m30 3) 4) 1100 mg/m30 4) EL. 108: Kookszijdige ontstoffing Batterij 16, 17, 18 Batterij 11, 12, 19 Stof Stof 10 mg/m30 10 mg/m30 3 kg/uur 6 kg/uur EL. 109: Vulgasontstoffing Batterij 16, 17, 18 Batterij 11, 12 Batterij 19 Stof PAK’s Stof PAK’s Stof PAK’s 10 mg/m30 0,1 mg/m30 5) 1 0 mg/m30 0,1 mg/m30 5) 1 0 mg/m30 0,1 mg/m30 5) 0,3 kg/uur 1,1 g/uur 0,3 kg/uur 0,8 g/uur 0,3 kg/uur 0,8 g/uur 10 kg/jaar 7 kg/jaar 7 kg/jaar EL. 110: H2S04- fabriek SOx 6) 15 kg/uur 1) Betreft restemissie van totaal niet-(water)oplosbaar stof per ton gebluste kooks, gemeten volgens de VDI 2303. 2) Waarde geldend vanaf 30 oktober 2007. 3) Stof is gedefinieerd als bij dit proces ontstane roet en stofdeeltjes. 4) Betrokken op 5 volume O. NOx uitgedrukt als NO2. 5) PAK’s volgens de EPA-lijst. 6) Uitgedrukt als SO, (mcl. S03 + H,S04). Tabel 2: Kooksfabriek 2 Emissiecode (bronaanduiding) Stof Grenswaarde Uitworp EL. 211: Blustorens Stof Stof CO 60 g/ton kooks 1) 50 g/ton kooks 1) 2) 600 g/ton kooks EL. 216: Batterij schoorstenen (Batterij 21, 22, 23, 24) Per Batterij Stof NOx 30 mg/m30 3) 4) 400 mg/m30 4) EL 217: Kookszijdige ontstoffing Stof 10 mg/m30 2,5kg/uur EL.218: H2S04-fabriek SOx 5) NOx 200 mg/m30 1200 mg/m30 4) 1) Betreft restemissie van totaal niet- (water)oplosbaar stof per ton gebluste kooks, gemeten volgens de VDI 2303. 2) Waarde geldend vanaf 30 oktober 2007.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Zie toelichting
+Datum status
+18-02-2012
+
+Voorschriftnummer
+1.2.20-A
+Inhoud
+De emissies van de hierna genoemde stoffen mogen de volgende grenswaarden niet overschrijden: Emissiecode (bronaanduiding) Stof Uitworp EL. 104: Blustorens Kooksfabriek 1 Stof CO (25 g/ton kooks 1) 600 g/ton kooks EL. 221: Blustorens Kooksfabriek 2 Stof CO (25 g/ton kooks 1) 600 g/ton kooks 1) Betreft restemissie van totaal niet-(water)oplosbaar stof per ton gebluste kooks, gebaseerd op de toepassing van de niet-isokinetische Mohrhauer-methode (vroegere VDI 2303).
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+18-03-2016
+
+Voorschriftnummer
+1.2.9
+Inhoud
+Een klimpijpdeksel van een gevulde oven mag, ten behoeve van het drukken van kooks en het degrafiteren niet meer dan 30 minuten voor het drukmoment geopend zijn. Alvorens de klimpijpdeksel te openen, dient de verbinding tussen kookskamer en de gasverzamelleiding te zijn verbroken.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+Ingetrokken/vervangen (ook van rechtswege vervallen)
+Datum status
+19-08-2016
+
+Voorschriftnummer
+1.2.9 Vulgaten en klimpijpen (situatie na vullen kooksoven)
+Inhoud
+1. Een klimpijpdeksel van een gevulde oven mag, ten behoeve van het drukken van kooks en het degrafiteren niet meer dan 40 minuten voor het drukmoment geopend zijn. Alvorens de klimpijpdeksel te openen, dient de verbinding tussen kookskamer en de gasverzamelleiding te zijn verbroken. 2. Indien bij visuele inspectie blijkt dat na het openen van de klimpijpdeksel en het openen van het vulgat van de kooksoven, een blijvende waarneembare stof- en of geuremissie optreedt, dient de klimpijpdeksel te worden gesloten en de betreffende schotel naar de gasverzamelleiding te worden geopend.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+19-08-2016
+
+Voorschriftnummer
+1.2.13.H Deuremissies Kooksfabriek 2
+Inhoud
+a. Per batterijgroep mag de totale emissie op enige plaats tussen de ankerstijlen, aan kooks- en machinezijde samen, het emissiekental 5 (als maandgemiddelde per kalendermaand) niet overschrijden. b. Het emissiekental dient te worden berekend op de wijze zoals omschreven in de bij dit voorschrift behorende bijlage 1. c. Dagelijks (7x per week) moeten de berekende emissiekentallen en de onderliggende gegevens per batterijgroep worden geregistreerd. d. Door vergunninghoudster moet ieder kwartaal een overzicht van alle uitgevoerde en geplande onderhoudswerkzaamheden en van alle uitgevoerde acties en maatregelen om de deuremissies te beperken, worden opgesteld en aan gedeputeerde staten worden toegezonden. In het overzicht dient aangegeven te worden wat de verwachte resultaten van het voorgaande zijn op de deuremissies.
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+22-12-2021
+
+Voorschriftnummer
+1.2.26
+Inhoud
+a De emissie van stof mag per 1 januari 2017 de volgende grenswaarden niet overschrijden: Emissiecode (bronaanduiding) Installatie (emissiepunt) Concentratie1) 2) [mg/Nm3] Kooksfabriek 1 EL. 105; kooksverwerking zeven Z102 10 Z104 10 Z119 10 Z181 10 Storttrechter fijnzeef 11 10 Storttrechter fijnzeef 12 10 Storttrechter fijnzeef 13 10 Fijnzeef 11 10 Fijnzeef 12 10 Fijnzeef 13 10 EL.106; kooksverwerking opslag en afvoer Kooksbunkers Z191 10 Kooksfabriek 2 EL. 212; afgraven en afleveren BOS KGM afgraven 10 Z202 blushelling 10 Z203 10 Z204 10 Z206 10 Z207 10 EL. 213; zeven ZV212 10 ZV222 10 ZV231 10 EL. 214; zeven ZV213 10 ZV214 10 ZV223 10 ZV224 10 EL. 215; opslag en afvoer kleintje kooks ZV232 10 ZV233 10 5) bepaald als gemiddelde van de bemonsteringsperiode (discontinue meting, steekproefmonsters voor minstens een halfuur). 6) Nm3: Omgerekend naar standaardomstandigheden, droog afgas met een temperatuur van 273,15 K bij een luchtdruk van 1013 hectopascal. b Vóór 1 januari 2017 dient door het uitvoeren van emissiemetingen te worden bepaald of wordt voldaan aan de in lid a genoemde emissiegrenswaarden. De resultaten van de metingen dienen vóór deze datum aan gedeputeerde staten, t.a.v. de Directeur van de ODNZKG, te worden overgelegd. De emissiemetingen dienen uitgevoerd te worden conform het in bijlage I gevoegde meetplan overeenkomstig de geldende meetnormen door een geaccrediteerde meetinstantie. c Indien uit de meetresultaten blijkt dat een installatie (emissiepunt) niet kan voldoen aan de in lid a genoemde emissiegrenswaarden, of dat niet kan worden aangetoond dat hieraan kan worden voldaan, dient vóór 1 januari 2018 de bij deze installatie behorende emissiebeperkende techniek, maar ook die van de identieke vergelijkbare installatie, te worden vervangen door een droge emissiebeperkende techniek. De in lid a genoemde emissie-eisen zijn alsdan voor deze installaties niet van toepassing. d Indien een natte emissiebeperkende techniek is vervangen door een droge emiss
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+23-09-2016
+
+Voorschriftnummer
+1.2.25
+Inhoud
+a De emissies van stof mag per 1 januari 2017 de volgende grenswaarden niet overschrijden: Emissiecode (bronaanduiding) Installatie (emissiepunt) Concentratie1) 2) [mg/Nm3] Kooksfabriek 2 EL. 202; Kolenvoorbereiding Breken AV 211 10 AV 217 10 AV 218 10 EL.205 Kolenvoorbereiding Afgraven AV 214 10 EL.206 Kolenvoorbereiding Afleveren AV 216 10 1) bepaald als gemiddelde van de bemonsteringsperiode (discontinue meting, steekproefmonsters voor minstens een halfuur). 2) Nm3 : Omgerekend naar standaardomstandigheden, droog afgas met een temperatuur van 273,15 K bij een luchtdruk van 1013 hectopascal. b. Vóór 1 januari 2017 dient door het uitvoeren van emissiemetingen te worden bepaald of wordt voldaan aan de in lid a genoemde emissiegrenswaarden. De resultaten van de metingen dienen vóór deze datum aan gedeputeerde staten, t.a.v. de Directeur van de ODNZKG, te worden overgelegd. De emissiemetingen dienen uitgevoerd te worden conform het in bijlage 1 gevoegde meetplan overeenkomstig de geldende meetnormen door een geaccrediteerde meetinstantie. c. Indien uit de meetresultaten blijkt dat een installatie (emissiepunt) niet kan voldoen aan de in lid a genoemde emissiegrenswaarden, of dat niet kan worden aangetoond dat hieraan kan worden voldaan, dient vóór 1 januari 2018 de bij deze installatie behorende emissiebeperkende techniek, maar ook die van de identieke vergelijkbare installatie, te worden vervangen door een droge emissiebeperkende techniek. De in lid a genoemde emissie-eisen zijn alsdan voor deze installaties niet van toepassing. d. Indien een natte emissiebeperkende techniek is vervangen door een droge emissiebeperkende techniek geldt voor de installatie een emissiegrenswaarde voor stof van 5 mg/Nm3, bepaald als gemiddelde van de bemonsteringsperiode (discontinue meting, steekproefmonsters voor minstens een halfuur) en omgerekend naar standaardomstandigheden, droog afgas met een temperatuur van 273,15 K bij een luchtdruk van 1013 hectopascal. e. Als identieke ve
+Milieuthema tata
+Lucht en geur
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+29-09-2016
+Algemeen
+
+Voorschriftnummer
+1.2.5
+Inhoud
+Ingevolge de voorschriften 1.2.6, 1.2.11, 1.2.13, 1.2.15, 1.2.16 en 1.2.17 te registeren gegevens moeten, in afwijking van voorschrift 0.1.6, zo spoedig mogelijk, doch uiterlijk binnen een maand na uitvoering op overzichtelijke wijze worden geregistreerd. De geregistreerde gegevens moeten ten minste drie achtereenvolgende jaren binnen de inrichting worden bewaard en op verzoek van gedeputeerde staten aan hen worden toegezonden.
+Milieuthema tata
+Algemeen
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+1.2.6
+Inhoud
+Vergunninghoudster moet van de stoffen die verwerkt worden op het kolenbedrijfsstoffenveld de hoeveelheid stof, de soort stof en het tijdstip van verwerken registreren.
+Milieuthema tata
+Algemeen
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-03-2007
+
+Voorschriftnummer
+Voorschrift 1: Hydrazine
+Inhoud
+Binnen twee maanden na ingebruikname van de eerste ozongenerator (fase 1) dient hydrazine volledig uitgefaseerd te zijn.
+Milieuthema tata
+Algemeen
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-08-2024
+
+Voorschriftnummer
+Voorschrift 2: NOx
+Inhoud
+De NOx-emissies uit de schoorsteen van de zwavelzuurfabriek (emissiecode: EL.218) mogen na de desbetreffende fase de volgende emissiegrenswaarden niet overschrijden: Fase Component Emissiegrenswaarde (mg/Nm3 ) (daggemiddelde concentratie) 1 NOx 700 2 NOx 200
+Milieuthema tata
+Algemeen
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-08-2024
+
+Voorschriftnummer
+Voorschrift 3: Ozongeneratoren
+Inhoud
+Binnen twee maanden na ingebruikname van de CombiBio dienen twee ozongeneratoren operationeel te zijn (fase 2). Het operationeel worden van de ozongeneratoren dient gemeld te worden bij gedeputeerde staten (ter attentie van de directeur ODNZKG).
+Milieuthema tata
+Algemeen
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-08-2024
+
+Voorschriftnummer
+Voorschrift 4: Onderzoeksverplichting NOx
+Inhoud
+a. Er moet onderzoek verricht worden naar het verder reduceren van de NOx-emissie tot onder de 100 mg/Nm3 uit de schoorsteen van de zwavelfabriek (emissiecode: EL.218). b. Het onderzoek dient onder andere inzicht te geven in de verschillende technische procesmatige mogelijkheden, kosten van de maatregelen, de te bereiken reducties en de mogelijke implementatie van de maatregel. c. Binnen twee maanden nadat de twee ozongeneratoren in bedrijf zijn, moet een onderzoeksplan schriftelijk bij gedeputeerde staten (ter attentie van de directeur ODNZKG) ter goedkeuring zijn voorgelegd. De duur van het onderzoek (planning met doorlooptijd) moet onderdeel zijn van het onderzoeksplan. d. Binnen twee maanden na indiening van het plan als bedoeld in voorschrift 4 onder c, nemen gedeputeerde staten een besluit inzake de beoordeling daarvan. e. Het onderzoek moet overeenkomstig het goedgekeurde plan worden uitgevoerd en moet aanvangen binnen zes maanden na goedkeuring van het plan. f. Een rapport betreffende de resultaten van het onderzoek en de hieraan te verbinden conclusies moet binnen drie maanden na afronding van het procesmatige onderzoek bij gedeputeerde staten zijn ingediend. Dit ter attentie van de directeur ODNZKG. Gedeputeerde staten kunnen binnen twee maanden na indiening van de rapportage nadere eisen stellen aan het rapport.
+Milieuthema tata
+Algemeen
+Werkeenheid tata
+Kooks- en gasfabrieken (KGF1 en KGF2)
+Status voorschrift
+In werking, onherroepelijk
+Datum status
+10-08-2024
+
